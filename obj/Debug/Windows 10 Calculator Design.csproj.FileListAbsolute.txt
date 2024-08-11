@@ -1,0 +1,10 @@
+G:\projects\Windows 10 Calculator\bin\Debug\Windows 10 Calculator.exe.config
+G:\projects\Windows 10 Calculator\bin\Debug\Windows 10 Calculator.exe
+G:\projects\Windows 10 Calculator\bin\Debug\Windows 10 Calculator.pdb
+G:\projects\Windows 10 Calculator\obj\Debug\Windows 10 Calculator Design.csproj.AssemblyReference.cache
+G:\projects\Windows 10 Calculator\obj\Debug\Windows_10_Calculator.Form1.resources
+G:\projects\Windows 10 Calculator\obj\Debug\Windows_10_Calculator.Properties.Resources.resources
+G:\projects\Windows 10 Calculator\obj\Debug\Windows 10 Calculator Design.csproj.GenerateResource.cache
+G:\projects\Windows 10 Calculator\obj\Debug\Windows 10 Calculator Design.csproj.CoreCompileInputs.cache
+G:\projects\Windows 10 Calculator\obj\Debug\Windows 10 Calculator.exe
+G:\projects\Windows 10 Calculator\obj\Debug\Windows 10 Calculator.pdb
